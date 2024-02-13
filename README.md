@@ -17,6 +17,11 @@ This repository contains various data analysis projects covering a range of topi
 3. **Power BI Project: Data Professional Survey Breakdown**
    - Developed a Power BI dashboard to analyze the breakdown of responses from a data professional survey.
    - Created interactive visualizations to explore survey data in-depth.
+  
+4. **Power BI Project: Road Accident Analysis in Kazakhstan**
+   - Developed a Power BI dashboard to analyze and visualize road accident data in Kazakhstan.
+   - Created interactive visualizations to explore various factors influencing road accidents, including driving experience, gender, etc. 
+  
 
 ## Usage
 
